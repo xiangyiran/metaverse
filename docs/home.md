@@ -1,6 +1,6 @@
-# 元宇宙
+# **元宇宙**
 
-## 什么是元宇宙
+## 快速了解什么是元宇宙
 
 ![metauniverse](images/metauniverse.jpeg)
 
