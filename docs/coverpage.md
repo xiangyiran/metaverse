@@ -1,4 +1,4 @@
-# 💻
+# 🌌
 
 <h1 id="cover-heading">
   元宇宙
@@ -8,3 +8,6 @@
 
 [Explore](home)
 <!-- [GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) -->
+
+<!-- 背景图片 -->
+![](images/metauniverse.jpeg)
