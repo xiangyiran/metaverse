@@ -10,4 +10,6 @@
 <!-- [GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) -->
 
 <!-- 背景图片 -->
-![](_media/bg01.jpeg)
+<!-- ![](_media/bg01.jpeg) -->
+![](#4F3A6C)
+
