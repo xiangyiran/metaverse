@@ -1,7 +1,9 @@
-# My **Open Publishing** Space
+# 元宇宙
 
-## Create, Share and Collaborate
+## 什么是元宇宙
 
-![Mountain](images/mountain.jpg)
+![metauniverse](images/metauniverse.jpeg)
 
-[Docsify](https://docsify.js.org/#/) can generate your documentation-style website on the fly. Unlike GitBook and many other Static Site Generators (SSG), it does not generate static html files. Instead, it smartly loads and parses your Markdown content files and displays them as a website.
+&emsp;&emsp;元宇宙这个词源于 1992 年尼尔·斯蒂芬森的《雪崩》，这本书描述了一个平行于现实世界的虚拟世界，Metaverse，所有现实生活中的人都有一个网络分身 Avatar。维基百科对元宇宙的描述是：通过虚拟增强的物理现实，呈现收敛性和物理持久性特征的，基于未来互联网，具有链接感知和共享特征的 3D 虚拟空间。
+
+&emsp;&emsp;正如电影《头号玩家》的场景，在未来的某一天，人们可以随时随地切换身份，自由穿梭于物理世界和数字世界，在虚拟空间和时间节点所构成的「元宇宙」中学习、工作、交友、购物、旅游等。元宇宙，这个建立在区块链之上的虚拟世界，去中心化平台让玩家享有所有权和自治权。通过沉浸式的体验，让虚拟进一步接近现实。
