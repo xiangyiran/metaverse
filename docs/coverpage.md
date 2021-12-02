@@ -1,10 +1,10 @@
 # 💻
 
 <h1 id="cover-heading">
-  My Open Publishing Space
+  元宇宙
 </h1>
 
-> Create, Share and Collaborate
+> 知识、资讯、实践、前沿
 
 [Explore](home)
-[GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
+<!-- [GitHub](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit) -->
